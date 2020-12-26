@@ -7,3 +7,4 @@ Using an example bank data file, created a dashboard and story to present insigh
 
 or another example using arms data:
 
+![alt text](https://github.com/andiosika/Example_Tableau/blob/master/imgs/whoboughwhat.PNG)
