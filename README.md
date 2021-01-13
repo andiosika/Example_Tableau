@@ -5,7 +5,8 @@ Using an example bank data file, created a dashboard and story to present insigh
 
 ![alt text](https://github.com/andiosika/Example_Tableau/blob/master/imgs/bankdash.PNG)
 
-or another example using arms data:
+or another example using arms data sourced from STOCKHOLM INTERNATIONAL
+PEACE RESEARCH INSTITUTE at https://www.sipri.org/databases/armstransfers
 
 ![alt text](https://github.com/andiosika/Example_Tableau/blob/master/imgs/whoboughtwhat.PNG)
 
