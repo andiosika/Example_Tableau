@@ -15,3 +15,6 @@ By drilling down on each data point, the type of arms purchased is revealed.
 ![alt text](https://github.com/andiosika/Example_Tableau/blob/master/imgs/whoboughtwhat.PNG)
 
 This file is availabale for viewing on the repo here under arms.twb as well.
+
+
+I'm devleoping my own tableau site and will post here once it's up.
