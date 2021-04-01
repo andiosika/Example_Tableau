@@ -1,6 +1,5 @@
-# Example_Tableau
-This repo is used to demonstrate ability to use tableau to develop dashboards:
-
+# Example Tableau
+The following are visual snapshots of dashboards and visualizations created in Tableau.  The interactive dashboards can be downloaded from this repo as well.
 
 
 
