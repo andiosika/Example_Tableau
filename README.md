@@ -9,7 +9,7 @@ Using an example bank data file, a dashboard was created and story to present in
 
 ![alt text](https://github.com/andiosika/Example_Tableau/blob/master/imgs/bankdash.PNG)
 
-# another example using arms data sourced from STOCKHOLM INTERNATIONAL
+# Another example using arms data sourced from STOCKHOLM INTERNATIONAL
 PEACE RESEARCH INSTITUTE at https://www.sipri.org/databases/armstransfers
 This interactive visual illustrates which countries bought arms from the time period of 1950 to 2019.  
 The size of the colored circles is relative to quantity purchaed.
