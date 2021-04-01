@@ -3,7 +3,7 @@ The following are visual snapshots of dashboards and visualizations created in T
 
 
 
-# One example using bank data:
+# Bank Customer Data Example:
 Using an example bank data file, a dashboard was created and story to present insights as discovered through visiualization.
 At a glance, insights can be formed about the who the customers are, where they live, and balance information.  
 (to view files, you'll need to have tableau and can download raw .twb files)
