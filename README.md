@@ -1,5 +1,5 @@
 # Example Tableau
-The following are visual snapshots of dashboards and visualizations created in Tableau.  The interactive dashboards can be downloaded from this repo as well.
+The following are visual snapshots of dashboards and visualizations created in Tableau.  The interactive dashboards can be downloaded from this repo as .twb files.
 
 
 
